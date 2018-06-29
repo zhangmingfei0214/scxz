@@ -1,3 +1,6 @@
 # scxz
-#01.jsp：使用的是： Jsp + Servlet 实现文件上传下载
-#链接地址：https://github.com/zhangmingfei0214/scxz
+#01.jsp锛氫娇鐢ㄧ殑鏄細 Jsp + Servlet 瀹炵幇鏂囦欢涓婁紶涓嬭浇
+#閾炬帴鍦板潃锛歨ttps://github.com/zhangmingfei0214/scxz
+
+#02.jsp锛氬簲鐢⊿martUpload瀹炵幇涓婁紶涓嬭浇
+涓嬭浇SmartUpload鐨刯spsmartupload.jar鍖呭湴鍧�https://github.com/zhangmingfei0214/scxz/blob/master/WebRoot/WEB-INF/lib/jspsmartupload.jar
