@@ -22,6 +22,9 @@ https://github.com/zhangmingfei0214/scxz/blob/master/WebRoot/WEB-INF/lib/jspsmar
 
 #03.jsp:使用框架Struts2实现文件上传下载
 ##链接地址：https://github.com/zhangmingfei0214/scxz
+###struts核心jar包的下载地址：
+https://github.com/zhangmingfei0214/scxz/tree/master/WebRoot/WEB-INF/lib
+
 ##实现功能：
 	1、实现文件的上传
 	2、实现错误信息的处理
