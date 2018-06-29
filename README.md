@@ -1,5 +1,8 @@
 # scxz
 #01.jsp： Jsp + Servlet 实现文件上传下载
+#实现功能：
+##1、文件的上传
+##2、文件的下载
 #链接地址：https://github.com/zhangmingfei0214/scxz
 
 #02.jsp：应用SmartUpload实现上传下载 
