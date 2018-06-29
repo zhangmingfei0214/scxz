@@ -12,6 +12,18 @@
     <servlet-name>DownloadServlet</servlet-name>
     <servlet-class>com.imooc.servlet.DownloadServlet</servlet-class>
   </servlet>
+  <servlet>
+    <servlet-name>SmartUploadServlet</servlet-name>
+    <servlet-class>com.imooc.servlet.SmartUploadServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>SmartDownloadServlet</servlet-name>
+    <servlet-class>com.imooc.servlet.SmartDownloadServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>BatchDownloadServlet</servlet-name>
+    <servlet-class>com.imooc.servlet.BatchDownloadServlet</servlet-class>
+  </servlet>
 
 
   <servlet-mapping>
@@ -21,6 +33,18 @@
   <servlet-mapping>
     <servlet-name>DownloadServlet</servlet-name>
     <url-pattern>/downloadServlet.do</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SmartUploadServlet</servlet-name>
+    <url-pattern>/smartUploadServlet.do</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SmartDownloadServlet</servlet-name>
+    <url-pattern>/smartDownloadServlet.do</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>BatchDownloadServlet</servlet-name>
+    <url-pattern>/batchDownloadServlet.do</url-pattern>
   </servlet-mapping>
   
   <welcome-file-list>
